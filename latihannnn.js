@@ -173,3 +173,7 @@ try{
     console.error(`teliti lagi`);
 }
 
+
+
+console.log("cukup tau");
+
